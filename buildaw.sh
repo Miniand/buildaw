@@ -20,7 +20,7 @@
 #  Create an Allwinner A10 compatible image for use on SD cards.
 #  
 #  Author: Michael Alexander <mick@miniand.com>
-#  Site:   <https://github.com/miniand/buildaw>
+#  Site:   <https://github.com/Miniand/buildaw>
 #
 ################################################################################
 
